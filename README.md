@@ -1,32 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,17,24&height=220&section=header&text=Hi%20There,%20I'm%20Yash!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20AI%2FML%20Enthusiast%20%7C%20Aspiring%20AI%20Engineer&descSize=18&descAlignY=55" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4A00E0,50:7F5AF0,100:00C6FF&text=Hey%20there,%20I'm%20Yash%20Rajput%20⚡&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20in%20the%20Making&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1100&color=58A6FF&center=true&vCenter=true&width=620&lines=AI%2FML+engineer+in+the+making;Now+building%3A+FinSentinel-AI;Exploring+GenAI+%C2%B7+LLMs+%C2%B7+RAG;Off+the+charts%3A+football+%26+gym" alt="typing intro" />
+<a href="https://github.com/YashRajput1107">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=BTech+CSE+(AI+%26+ML)+%40+Manipal+University+Jaipur;Currently+building+FinSentinel-AI+%F0%9F%9A%80;Diving+deep+into+GenAI%2C+LLMs+%26+RAG+%F0%9F%A7%A0;Football+on+weekends%2C+gym+every+day+%E2%9A%BD%F0%9F%8F%8B%EF%B8%8F" alt="typing intro" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YashRajput1107&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
 <br>
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 BTech CSE (AI & ML) student at **Manipal University Jaipur** — Class of 2028
+- 🎓 **BTech CSE (AI & ML)** @ Manipal University Jaipur — Class of 2028
+- 🚀 Currently building **FinSentinel-AI** — my most ambitious project yet
+- 🧠 Deep-diving into **Generative AI, LLMs & RAG**
+- 🤖 Strong foundation in **Python, Machine Learning, Deep Learning & NLP**
 - 📍 Based in New Delhi, India
-- 🔭 Currently building **[FinSentinel-AI](https://github.com/YashRajput1107/finsentinel-ai)** — an AI-powered financial intelligence system
-- 🧠 Core stack: Python · Machine Learning · Deep Learning · NLP
-- 🌱 Learning: Generative AI · LLMs · RAG · LangChain
-- 🚀 Always shipping something new — check out my repos below
-- ⚽ Fun fact: I love football & the gym when I'm not training models
+- ⚽ Off-screen: chasing footballs on weekends and PRs at the gym 🏋️
 
 <br>
 
-## 🌐 Connect With Me
+## 🔥 Currently On My Desk
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-rajput-22b213416/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashRajput1107)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yrajput8595@gmail.com)
+<img src="https://img.shields.io/badge/🚧_Building-FinSentinel--AI-4A00E0?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/📚_Learning-Generative_AI-7F5AF0?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/📚_Learning-LLMs_&_RAG-00C6FF?style=for-the-badge&labelColor=1a1b27" />
 
 </div>
 
@@ -34,15 +37,20 @@
 
 ## 🚀 Featured Projects
 
-[**FinSentinel-AI**](https://github.com/YashRajput1107/finsentinel-ai) — an AI-powered financial intelligence system, currently in active development. `Python` `Machine Learning` `In Dev 🟠`
+### 🛡️ [Network Security — Phishing Detection](https://github.com/YashRajput1107/NetworkSecurity)
+End-to-end phishing website detection system using 30 URL/domain features with a modular ML pipeline — data ingestion, validation, transformation & model training. Experiment tracking with **MLflow + DagsHub**, and **MongoDB Atlas** as the cloud data source with schema-based validation and drift detection.
 
-[**Phishing Detection**](https://github.com/YashRajput1107/NetworkSecurity) — end-to-end network security ML pipeline: 30 URL/domain features, ingestion → validation → training, MLflow + DagsHub experiment tracking, MongoDB Atlas as cloud source with schema validation & drift detection. `Python` `scikit-learn` `MLflow` `MongoDB Atlas`
+`Python` `Scikit-learn` `MLflow` `DagsHub` `MongoDB Atlas`
 
-[**Kindle Review Sentiment**](https://github.com/YashRajput1107/SentimentAnalysis) — NLP pipeline classifying Amazon Kindle reviews: text cleaning, lemmatization, BoW & TF-IDF vectorization, Naive Bayes classifier evaluated on accuracy, confusion matrix & classification report. `Python` `NLTK` `scikit-learn`
+### 📖 [Kindle Review Sentiment Analysis](https://github.com/YashRajput1107/SentimentAnalysis)
+End-to-end NLP pipeline classifying Amazon Kindle reviews into positive/negative sentiment — HTML removal, stopword removal, lemmatization, **BoW & TF-IDF** vectorization, and a **Naive Bayes** classifier evaluated with accuracy, confusion matrix & classification report.
 
-[**ANN Churn Prediction**](https://github.com/YashRajput1107/ANNChurnPrediction) — customer churn prediction with an artificial neural network. `Python` `TensorFlow` `Deep Learning`
+`Python` `NLP` `Scikit-learn` `TF-IDF` `Naive Bayes`
 
-[**RNN Review Sentiment**](https://github.com/YashRajput1107/RNNReviewSentimentAnalysis) — sentiment analysis of reviews using recurrent neural networks. `Python` `TensorFlow` `NLP`
+### 💰 FinSentinel-AI &nbsp;🚧
+AI-powered financial intelligence system — currently in the lab. Repo dropping soon, stay tuned!
+
+`GenAI` `LLMs` `RAG` `Python`
 
 <br>
 
@@ -50,49 +58,47 @@
 
 <div align="center">
 
-**Languages & Core**
+**Languages & Tools**
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,git,vscode,mongodb&theme=dark" alt="languages and tools" />
-
-<br><br>
-
-**AI / ML & Data Science**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-3FB950?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Feature%20Engineering-58A6FF?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,tensorflow,sklearn,git,github,vscode&theme=dark" />
 
 <br><br>
 
-**Libraries & Frameworks**
+**AI & Machine Learning**
+
+<img src="https://img.shields.io/badge/Machine_Learning-4A00E0?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Deep_Learning-7F5AF0?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/NLP-00C6FF?style=for-the-badge&labelColor=1a1b27" />
+
+<br><br>
+
+**Data Science & Libraries**
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-2C3E50?style=for-the-badge&logoColor=white" />
 
 <br><br>
 
-**Tools & Platforms**
+**MLOps, Databases & Tools**
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/DagsHub-231F20?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20·%20Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/DagsHub-231F20?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_(Oracle)-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 <br><br>
 
-**On the Watchlist 👀**
+**Exploring Right Now 👀**
 
-<img src="https://img.shields.io/badge/Generative%20AI-6E40C9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-238636?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00C6FF" />
+<img src="https://img.shields.io/badge/Hugging_Face-1a1b27?style=for-the-badge&logo=huggingface" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-7F5AF0?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Full--Stack_Web_Dev-00C6FF?style=for-the-badge&labelColor=1a1b27" />
 
 </div>
 
@@ -102,19 +108,35 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashRajput1107&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRajput1107&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" width="41%" />
+<img src="https://img.shields.io/github/followers/YashRajput1107?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=7F5AF0&label=Followers" />
+<img src="https://img.shields.io/github/stars/YashRajput1107?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=00C6FF&label=Total%20Stars" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=YashRajput1107&hide_border=true&theme=tokyonight&background=0D1117" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=YashRajput1107&theme=tokyonight&hide_border=true" width="60%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashRajput1107&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 
 </div>
 
 <br>
 
+## 🤝 Connect With Me
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,17,24&height=120&section=footer" width="100%" alt="footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-rajput-22b213416/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashRajput1107)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yrajput8595@gmail.com)
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00C6FF,50:7F5AF0,100:4A00E0&section=footer" width="100%" />
 
 </div>
